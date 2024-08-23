@@ -1,7 +1,9 @@
 # Cosmo
 ## About
 Join the Future of Finance: Invest in Cosmo Token Early! 
+##
 Looking to get in on the ground floor of an exciting new crypto project? The Cosmo Token is your ticket to early investment in a project that's just beginning to take off.
+##
 Here’s why you should consider Cosmo Token:
 Early Adoption Advantage: By investing in Cosmo Token now, you're positioning yourself ahead of the crowd. Early adopters often see the greatest potential gains as a project grows and matures.
 Innovative Vision: Cosmo Token is built on a forward-thinking vision with the potential to disrupt traditional financial systems. It's not just another token—it's a project with the ambition to create real impact.
