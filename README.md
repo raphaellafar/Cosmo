@@ -1,5 +1,6 @@
 # Cosmo
 ## About 
+The adoption of cryptocurrencies among non-technical users is progressing very slowly. Additionally, the multitude of solutions and high transaction costs make this process more challenging. That’s why we created Cosmo, to facilitate the exchange of value among members of our community. To achieve this, we chose the Cosmos ecosystem, which ensures low transaction costs and access to reputable wallets such as Kepler and Leap. We are also preparing to handle transactions outside the official payment system.
 We aim to build a decentralized community by leveraging cutting-edge technologies.
 
 ## Buy 
