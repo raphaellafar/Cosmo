@@ -12,4 +12,4 @@ To build a truly decentralized community, we deliberately avoid relying on centr
 Follow the https://x.com/CosmoClub84 profile so you don't miss any updates!
 
 ## White Paper
-[whitepaper.pdf](https://github.com/raphaellafar/Cosmo/blob/main/src/whitepaper.pdf?raw=true)
+[whitepaper.pdf](https://raw.githubusercontent.com/raphaellafar/Cosmo/main/src/whitepaper.pdf)
