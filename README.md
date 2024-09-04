@@ -13,3 +13,6 @@ Follow the https://x.com/CosmoClub84 profile so you don't miss any updates!
 
 ## White Paper
 [whitepaper.pdf](https://raw.githubusercontent.com/raphaellafar/Cosmo/main/src/whitepaper.pdf)
+
+##Contract
+factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO
