@@ -12,6 +12,3 @@ Thanks to Cosmo, members of our community can more easily exchange value among t
 
 ## Twitter(X)
 Follow the https://x.com/CosmoClub84 profile so you don't miss any updates!
-
-## Contract  
-factory/inj1je6n5sr4qtx2lhpldfxndntmgls9hf38ncmcez/COSMO
